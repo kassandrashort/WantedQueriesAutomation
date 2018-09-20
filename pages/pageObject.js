@@ -49,6 +49,8 @@ module.exports={
 
         cancelReason: 'input[name="resInput"]',
         cancelDate: 'input[name="datInput"]',
+        validHeader: 'h4[id="validHeader"]',
+        queryTitle: 'span[name="queryTitle"]'
     
     }
 }

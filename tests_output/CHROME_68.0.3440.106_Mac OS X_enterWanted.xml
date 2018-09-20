@@ -5,9 +5,41 @@
 
   <testsuite name="enterWanted"
     errors="0" failures="0" hostname="" id="" package="enterWanted" skipped="0"
-    tests="1" time="4.531" timestamp="Sun, 09 Sep 2018 03:10:15 GMT">
+    tests="1" time="10.24" timestamp="Tue, 11 Sep 2018 19:24:54 GMT">
   
-    <testcase name="Min Boundary 1" classname="enterWanted" time="4.531" assertions="16">
+    <testcase name="Boundary Value Testing" classname="enterWanted" time="10.24" assertions="32">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 
